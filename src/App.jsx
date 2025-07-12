@@ -1,7 +1,6 @@
-// src/App.jsx
 import React, { useState } from "react";
 import WeatherCard from "./WeatherCard";
-import "./index.css"; // Stil dosyamız
+import "./index.css"; 
 
 const API_KEY = "15d7d64beb4207d72e0e5362d746a71e";
 function App() {
